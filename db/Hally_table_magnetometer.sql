@@ -18,7 +18,7 @@ CREATE TABLE `magnetometer` (
 -- Dumping data for table `magnetometer`
 --
 
-INSERT INTO `magnetometer` (`datetime`, `magnetometerx`, `magnetometery`, `magnetometerz`, `totaalmagnetometer`, `sqm-value`) VALUES
-('2020-08-13 22:27:02', 2, 2, 2, 2, 2),
-('2020-08-13 22:27:02', 2, 2, 2, 2, 2),
-('2020-08-13 22:27:02', 2, 2, 2, 2, 2);
+-- INSERT INTO `magnetometer` (`datetime`, `magnetometerx`, `magnetometery`, `magnetometerz`, `totaalmagnetometer`, `sqm-value`) VALUES
+-- ('2020-08-13 22:27:02', 2, 2, 2, 2, 2),
+-- ('2020-08-13 22:27:02', 2, 2, 2, 2, 2),
+-- ('2020-08-13 22:27:02', 2, 2, 2, 2, 2);
